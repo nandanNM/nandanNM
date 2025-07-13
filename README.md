@@ -25,7 +25,17 @@
 
 - 😄 Passionate about Web and AI to bring that tech into peoples hand and AR too!
 
+<br/>
 
+<!-- Technologies that I'm working with -->
+
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongo,postgres,tailwind,react,next,aws,docker,python,cpp,fastapi,bun,jenkins,redis,prisma,postman,git,github,redux,kafka,ai&theme=dark&perline=8" />
+</p>
+
+<br/>
 
 
 ![Nandan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandanNM&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)
