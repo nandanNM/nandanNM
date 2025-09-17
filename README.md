@@ -32,7 +32,7 @@
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongo,postgres,tailwind,react,next,aws,docker,python,cpp,fastapi,bun,jenkins,redis,prisma,postman,git,github,redux,kafka,ai&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,nodejs,express,mongo,postgres,tailwind,react,next,aws,docker,bun,jenkins,redis,prisma,postman,git,github,redux,kafka,ai&theme=dark&perline=8" />
 </p>
 
 <br/>
